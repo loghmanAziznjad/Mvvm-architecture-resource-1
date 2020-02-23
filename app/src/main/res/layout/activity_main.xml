@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<layout>
-
-
-    <data>
-
-    </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -25,9 +19,5 @@
             app:layout_constraintTop_toTopOf="parent" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-
-
-
-</layout>
 
 
